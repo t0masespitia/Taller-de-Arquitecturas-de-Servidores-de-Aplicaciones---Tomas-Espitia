@@ -105,14 +105,7 @@ Respuesta esperada:
 Hola Tomas
 ```
 ![alt text](holatomas.png)
-Los recursos estáticos como archivos HTML e imágenes PNG se sirven desde la carpeta:
-
-```
-src/main/resources/public
-```
-
----
-
+´´´
 # Running the tests
 
 Actualmente el proyecto demuestra su funcionamiento mediante pruebas manuales accediendo a los endpoints del servidor.
