@@ -90,25 +90,21 @@ Página principal:
 ```
 http://localhost:8080
 ```
-
 Endpoint de saludo:
-![alt text](../image.png)
 ```
 http://localhost:8080/greeting
 ```
 
 Endpoint con parámetro:
-![alt text](<../Screenshot 2026-03-09 143013.png>)
 ```
 http://localhost:8080/greeting?name=Tomas
 ```
-
 Respuesta esperada:
 
 ```
 Hola Tomas
 ```
-![alt text](<../Screenshot 2026-03-09 143301.png>)
+![alt text](holatomas.png)
 Los recursos estáticos como archivos HTML e imágenes PNG se sirven desde la carpeta:
 
 ```
@@ -136,7 +132,7 @@ Resultado esperado:
 ```
 Hola World
 ```
-![alt text](<../Screenshot 2026-03-09 143013.png>)
+![alt text](holaword.png)
 Esto confirma que:
 
 * El servidor HTTP recibe la solicitud correctamente.
