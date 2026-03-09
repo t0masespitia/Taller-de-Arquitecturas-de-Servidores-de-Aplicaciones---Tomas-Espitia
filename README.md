@@ -189,7 +189,7 @@ http://13.222.109.49:8080/greeting?name=Tomas
 ```
 
 ---
-![alt text](../aws.png)
+![alt text](aws.png)
 # Built With
 
 * **Java** – Lenguaje utilizado para desarrollar el servidor y el framework.
